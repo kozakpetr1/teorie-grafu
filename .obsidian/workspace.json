@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "6fdb0747de0bbb13",
+    "type": "split",
+    "children": [
+      {
+        "id": "7119f3b61f99097f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9acad40d63851846",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.5"
+            }
+          },
+          {
+            "id": "3c275bf289a52724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teorie grafů.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorie grafů"
+            }
+          },
+          {
+            "id": "8119f43d5f4f3d82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c274e068442e0ec8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d6817da11850f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c10e130009d39ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b77c4dc51a9b2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Průzkumník souborů"
+            }
+          },
+          {
+            "id": "46dce1bf35361458",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Hledat"
+            }
+          },
+          {
+            "id": "c3d1f90960797e1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Záložky"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "177194d629062439",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bd521c5e3bbd938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f0155177c9fc6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teorie grafů.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Zpětné odkazy pro Teorie grafů"
+            }
+          },
+          {
+            "id": "ff72da6638e42cff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teorie grafů.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Odchozí odkazy z Teorie grafů"
+            }
+          },
+          {
+            "id": "70d3583ae19c084a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e21b424d782c4395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teorie grafů.md"
+              },
+              "icon": "lucide-list",
+              "title": "Přehled Teorie grafů"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false
+    }
+  },
+  "active": "3c275bf289a52724",
+  "lastOpenFiles": [
+    "dfs.png",
+    "strom.png",
+    "Bez názvu.md",
+    "2024-06-14.md",
+    "Bez názvu.canvas",
+    "Teorie grafů.md",
+    "Bez názvu 1.canvas",
+    "Welcome.md",
+    "grafy.png",
+    "graf2.png",
+    "graf1.png"
+  ]
+}
