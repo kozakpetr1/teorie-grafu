@@ -25,12 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teorie grafů.md",
+                "file": "Teorie grafů - úvod.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorie grafů"
+              "title": "Teorie grafů - úvod"
+            }
+          },
+          {
+            "id": "ba7d826e825cffd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teorie grafů - úvod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorie grafů - úvod"
             }
           },
           {
@@ -54,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teorie grafů.md",
+                "file": "Teorie grafů - úvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Teorie grafů"
+              "title": "Zpětné odkazy pro Teorie grafů - úvod"
             }
           },
           {
@@ -145,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teorie grafů.md",
+                "file": "Teorie grafů - úvod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z Teorie grafů"
+              "title": "Odchozí odkazy z Teorie grafů - úvod"
             }
           },
           {
@@ -172,10 +186,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teorie grafů.md"
+                "file": "Teorie grafů - úvod.md"
               },
               "icon": "lucide-list",
-              "title": "Přehled Teorie grafů"
+              "title": "Přehled Teorie grafů - úvod"
             }
           }
         ]
@@ -195,14 +209,14 @@
       "command-palette:Otevřít paletu příkazů": false
     }
   },
-  "active": "3c275bf289a52724",
+  "active": "ba7d826e825cffd3",
   "lastOpenFiles": [
+    "Teorie grafů - hledání cesty.md",
+    "Teorie grafů - úvod.md",
     "dfs.png",
     "strom.png",
-    "Bez názvu.md",
     "2024-06-14.md",
     "Bez názvu.canvas",
-    "Teorie grafů.md",
     "Bez názvu 1.canvas",
     "Welcome.md",
     "grafy.png",

@@ -123,7 +123,7 @@ print(je_obousmerna(graf_a, 0, 7))
 Je dán graf C.
 ![[strom.png]]
 
-Urči o jaký typ grafu se jedná (orientovaný/neorientovaný, neoznačený/označený/vážený, úplný/neúplný, souvislý/nesouvislý, cyklický/stromový).
+1. Urči o jaký typ grafu se jedná (orientovaný/neorientovaný, neoznačený/označený/vážený, úplný/neúplný, souvislý/nesouvislý, cyklický/stromový).
 2. Vyjádři graf pomocí matice sousednosti.
 3. V pythonu vytvoř skript, který bude:
 	- obsahovat inicializaci proměnných, ve kterých budou zaznamenány údaje grafu,
@@ -160,7 +160,7 @@ def doHloubky(matice, start, navstiveno=None):
 
     for soused, pripojen in enumerate(matice[start]):
         if pripojen and soused not in navstiveno:
-            dfs(matice, soused, navstiveno)
+            doHloubky(matice, soused, navstiveno)
 
 doHloubky(matice_sousednosti, 0)
 ```
